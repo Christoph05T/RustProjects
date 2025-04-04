@@ -1,0 +1,1 @@
+Z:\Benutzer\Christoph\Studium\lernen\RustProjects\littleStarters\littleCalculator\target\debug\littleCalculator.exe: Z:\Benutzer\Christoph\Studium\lernen\RustProjects\littleStarters\littleCalculator\src\main.rs
