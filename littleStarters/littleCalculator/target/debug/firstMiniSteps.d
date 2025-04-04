@@ -1,0 +1,1 @@
+Z:\Benutzer\Christoph\Studium\lernen\RustProjects\littleStarters\firstMiniSteps\target\debug\firstMiniSteps.exe: Z:\Benutzer\Christoph\Studium\lernen\RustProjects\littleStarters\firstMiniSteps\src\main.rs
